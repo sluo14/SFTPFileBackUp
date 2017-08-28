@@ -1,0 +1,8 @@
+F:\work\techtest\ftpapp\AppFileBackup\AppFileBackup\bin\Debug\AppFileBackup.exe
+F:\work\techtest\ftpapp\AppFileBackup\AppFileBackup\bin\Debug\AppFileBackup.pdb
+F:\work\techtest\ftpapp\AppFileBackup\AppFileBackup\bin\Debug\Renci.SshNet.dll
+F:\work\techtest\ftpapp\AppFileBackup\AppFileBackup\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\work\techtest\ftpapp\AppFileBackup\AppFileBackup\obj\x86\Debug\AppFileBackup.exe
+F:\work\techtest\ftpapp\AppFileBackup\AppFileBackup\obj\x86\Debug\AppFileBackup.pdb
+F:\work\techtest\ftpapp\AppFileBackup\AppFileBackup\bin\Debug\AppFileBackup.exe.config
+F:\work\techtest\ftpapp\AppFileBackup\AppFileBackup\bin\Debug\log4net.dll
