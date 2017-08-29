@@ -27,7 +27,7 @@ namespace AppFileBackup.logic
         ///****************************************************************************************************
         public void doBackup()
         {
-            // 访问配置文件并获取对默认配置文件的访问
+            //访问配置文件并获取对默认配置
             string sftp_ip = System.Configuration.ConfigurationManager.AppSettings["sftp_ip"];
             string sftp_port = System.Configuration.ConfigurationManager.AppSettings["sftp_port"];
             string sftp_username = System.Configuration.ConfigurationManager.AppSettings["sftp_username"];
